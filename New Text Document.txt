@@ -1,0 +1,63 @@
+body {
+
+margin:0;
+padding:0;
+background:#e1e8e3;
+
+}
+
+
+ul{
+
+width:100%;
+margin: 0 0 0 250px;
+list-style:none;
+
+}
+
+
+nav {
+
+width:100px;
+overflow:auto;
+background:black;
+
+}
+
+
+li {
+
+float:left;
+
+}
+
+
+li a {
+
+width:100px;
+display:block;
+padding:20px 15px;
+text-decoration:none;
+font-family:arial;
+color:white;
+text-align:center;
+
+
+}
+
+
+
+li a:hover{
+
+background:gray;
+text-transform:uppercase;
+
+}
+
+.logo img{
+
+position:absolute;
+margin-top:5px;
+margin_left:10px;
+
+}
